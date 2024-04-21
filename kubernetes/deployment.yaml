@@ -16,4 +16,4 @@ spec:
       - name: my-app-container
         image: gowthamc121/maven_production:tagname
         ports:
-        - containerPort: 8081  # Adjust the port number as needed
+        - containerPort: 8080  # Adjust the port number as needed
